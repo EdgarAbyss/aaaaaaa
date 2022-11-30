@@ -1,18 +1,20 @@
 # SERVICIO DE MASAJES
-
-## 💆Relajante💆
+---
+## 💆[[Relajante]]💆
 - Estómago / Abdomen
 - Piernas Anteriores
 - Piernas Posteriores
 - Espalda
-
-## 🧘Holístico🧘
+---
+## 🧘[[Holístico]]🧘
 - (Todo lo del 💆Relajante💆)
 - Brazos
 - Nalgas (Opcional)
 - Cara / Cabeza
 - Cuello
-
-## 🥢Con Ventosas🥢
+---
+## 🥢Con [[Ventosas]]🥢
 - (Todo lo del 🧘Holístico🧘)
 - Trabajo de contracturas (Espalda)
+---
+
