@@ -1,2 +1,0 @@
-#Organo_Zang
-#Yin

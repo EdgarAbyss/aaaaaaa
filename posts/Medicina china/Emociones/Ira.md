@@ -1,2 +1,0 @@
-#emoción
-[[Madera]]
