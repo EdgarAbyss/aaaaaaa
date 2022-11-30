@@ -6,7 +6,7 @@ import {useRouter} from 'next/router'
 function BackLinks({linkList}) {
 
     return (<div className="note-footer">
-            <h3 className="backlink-heading">Link to this note</h3>
+            <h3 className="backlink-heading">Enlaces a esta nota</h3>
         {(linkList != null && linkList.length > 0)
             ?
             <>
@@ -24,7 +24,7 @@ function BackLinks({linkList}) {
                     )}
                 </div>
             </>
-            : <> <p className="no-backlinks"> No backlinks found</p> </>}
+            : <> <p className="no-backlinks"> No se encontraron enlaces</p> </>}
     </div>);
 }
 
