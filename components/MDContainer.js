@@ -14,7 +14,7 @@ function MDContainer({post, fileNames}) {
 
     return (
         <div className="Container">
-            {posts.map(p => (
+            {archivos.map(p => (
                 <MDContent key={uuidv4()} content={p} handleOpenNewContent={handleClick} fileNames={fileNames}/>
             ))}
         </div>
