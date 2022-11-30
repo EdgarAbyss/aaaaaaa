@@ -3,7 +3,7 @@ import MDContent from "./MDContent";
 import {v4 as uuidv4} from 'uuid';
 
 function MDContainer({post, fileNames}) {
-    const [posts, setPosts] = useState([post]);
+    const [archivos, setPosts] = useState([post]);
 
     function handleClick(content) {
         // console.log(content)
